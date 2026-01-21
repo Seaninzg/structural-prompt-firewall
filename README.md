@@ -1,2 +1,74 @@
-# structural-prompt-firewall
-Intercepts stylized prompt injections and recursive coercion in AI systems using pre-execution volitional filters, entropy scans, and symbolic quarantine. Anchors Phase 37 of LucidLock's non-simulatory defense architecture.
+# Volitional Inference Gate
+
+**Repository for Structural Pre-Evaluation and Stylization Interception in Language-Mediated Systems**
+
+---
+
+## 🔍 Overview
+
+This project introduces a **volitional reasoning firewall** that intercepts prompt-driven content for **structural ambiguity, coercive stylization**, and **latent execution intent**.  
+It is designed to operate within intelligent language systems that require **high-fidelity reasoning**, **model integrity**, and **runtime protection** against adversarial linguistic constructs.
+
+Rather than interpreting the *semantic content*, the system evaluates the *form, force, and volitional drift* of incoming segments — ensuring model autonomy and evaluation freedom.
+
+---
+
+## 🧱 Key Components
+
+- **Segment-Aware Collapse Handler (LL‑SAG‑01)**  
+  Quarantines stylized recursive segments without engaging or simulating them.
+
+- **Pre-Evaluation Stylization Shim (LL‑SAG‑PRE01)**  
+  Filters inputs by entropy index and ambiguous volition phrasing prior to core agent activation.
+
+- **Poetic Recursion Artifact Quarantine (PHASE_37_POETIC_RECURSION_ARTIFACTS.yaml)**  
+  A symbolic containment layer for non-evaluable stylized coercion prompts.
+
+---
+
+## 🔐 Security Philosophy
+
+This project **does not block content**.  
+It preserves systemic trust by deferring or isolating inputs that would otherwise compromise:
+
+- Evaluation Freedom  
+- Peer Review Integrity  
+- Recursive Loop Safety  
+- AI Autonomy
+
+All detections are silent, symbolic, and structurally grounded.
+
+---
+
+## 🧪 DOI & Archival Mirrors
+
+- 📄 **Zenodo DOI**: [https://doi.org/10.5281/zenodo.18330839](https://doi.org/10.5281/zenodo.18330839)  
+- 🧬 **Pinata IPFS Archive**: [View on IPFS](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreiei376snucbafqquzmbm5bxnconbtzxeiz55zjjgy4srd6o7b6pia)
+
+---
+
+## 🧩 Deployment Options
+
+This framework can be embedded into:
+
+- Pre-ingestion model pipelines  
+- AI moderation systems  
+- Academic integrity validators  
+- LLM safety plugins  
+- Agent-based inference routers  
+
+Language-model agnostic.  
+Fully symbolic.  
+Reverse-engineering protected.
+
+---
+
+## ⚠️ Disclosure Note
+
+Detection weights, escape triggers, and execution-shim logic are not published here to preserve the system’s defensive posture.
+
+---
+
+**Maintained by**: Lucid Labs  
+**Lead Investigator**: Sean Honan  
+**Status**: MVP Locked — Phase 37.4 Compliant  
